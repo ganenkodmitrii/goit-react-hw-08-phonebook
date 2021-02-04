@@ -47,7 +47,7 @@ export default function RegisterView() {
                     style={{
                         position: 'absolute',
                         top: 100,
-                        right: 95,
+                        right: 110,
                     }}
                 >
                     <Toast.Body>{error}</Toast.Body>
